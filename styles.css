@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.card-deck{
+	display: flex;
+
+/* .card-deck card{
+	height: 400em;
+	width: 300em;
+	margin-top: 50px;
+} */
